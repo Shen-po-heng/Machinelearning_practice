@@ -1,0 +1,224 @@
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+YU_HN[0]=-0.097991
+YU_HN[1]=0.637933
+YU_HN[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+YU_ON[0]=-10.339341
+YU_ON[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+Th_Out[0]=-0.705374
+Th_Out[1]=-0.668203
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=5.694925
+Th_Hid[1]=1.519682
+Th_Hid[2]=-5.213078
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of 「輸出層的閾值」(huozhi) as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of 「隱層的閾值為」(huozhi) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of the output layer threshold as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of the Hidden layer threshold) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of the output layer threshold as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of the Hidden layer threshold) as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of the output layer threshold as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of the Hidden layer threshold as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of the output layer threshold as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of the Hidden layer threshold as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
+Save the result of the output layer threshold as follows:
+Th_Out[0]=-10.339341
+Th_Out[1]=4.842872
+
+Save the result of the Hidden layer threshold as follows:
+Th_Hid[0]=-0.097991
+Th_Hid[1]=0.637933
+Th_Hid[2]=0.524855
