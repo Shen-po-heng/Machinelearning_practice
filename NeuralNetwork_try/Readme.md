@@ -9,6 +9,7 @@
 The main variables in the program are all commented and marked, and the names of the variables are also considered naming, except that the counted variables are not marked.
 
 ※Train Data: I put two sets of variables, one set is 5; the first 3 are learning data, and the last 2 are teaching data
+
 ※ Observation of the execution result: From the slowly correcting of the Error, it can be found that the Error is gradually smaller
 
 Experience and review: Due to the time factor, it is too late to use the C language to play the GUI graph to see the error trend. It is a pity that the graph is relatively clear at a glance.
