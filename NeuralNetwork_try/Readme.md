@@ -1,4 +1,4 @@
-﻿#Neural Network try
+# Neural Network try
 
 1. I use the Sigmoid function as the activation function
 2.StartShowANDEndShow.h is only used as a link for the user to check if there is a TrainData before use
